@@ -23,4 +23,9 @@ const listaAlumnos = [
 
 //min 70
 
+// selects  <div class="container"></div> in the HTML
 const container = document.querySelector(".container");
+// console.dir(container);
+// console.log(container);
+
+const template = document.querySelector("#template");
