@@ -1,24 +1,26 @@
 const listaAlumnos = [
   {
-    nanme: "Ana",
+    name: "Ana",
     grade: 95,
   },
   {
-    nanme: "Luis",
+    name: "Luis",
     grade: 72,
   },
   {
-    nanme: "Carla",
+    name: "Carla",
     grade: 60,
   },
   {
-    nanme: "Miguel",
+    name: "Miguel",
     grade: 48,
   },
   {
-    nanme: "Sofía",
+    name: "Sofía",
     grade: 88,
   },
 ];
 
 //min 70
+
+const container = document.querySelector(".container");
