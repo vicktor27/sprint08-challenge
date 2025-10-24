@@ -6,4 +6,4 @@ const alumnos = [
   { nombre: "Sofia", calificacion: 88 },
 ];
 
-const container = document.queryselctor(.container)
+const container = document.querySelector(".container");
