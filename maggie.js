@@ -7,4 +7,4 @@ const alumnos = [
 ];
 
 const container = document.querySelector(".container");
-const template = querySelector(#template);
+const template = document.querySelector("#template");
